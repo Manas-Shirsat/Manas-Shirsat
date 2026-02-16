@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Manas 👋
 
-<!--
-**Manas-Shirsat/Manas-Shirsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Project Manager based in Auckland, New Zealand  
+📊 Power BI | Python | SQL | Excel | Financial & Real Estate Analytics  
+🏗 Civil Engineer with a strong interest in data-driven decision making  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- Auckland Real Estate Data Dashboard (Power BI)
+- Stock Market Technical Analysis (Python – EMA Strategy)
+- Rental Yield & Investment Comparison Models
+
+---
+
+## 🛠 Technical Skills
+- Data Visualization – Power BI
+- Data Cleaning & Transformation – Power Query, Python (Pandas)
+- SQL – Data Extraction & Analysis
+- Excel – Financial Modelling & Dashboards
+- Statistical & Financial Analysis
+
+---
+
+## 👯 I’m Open to Collaborate On
+- Real Estate & Property Market Analytics
+- Financial & Investment Analysis Projects
+- Business Intelligence Dashboards
+- Data Cleaning & Transformation Projects
+
+---
+
+## 💬 Ask Me About
+- Civil & Structural Engineering Projects
+- Power BI Dashboards & Data Modelling
+- Financial Planning & Investment Analysis
+- Project Coordination & Cost Management
+
+---
+
+## 🤝 I’m Open To Opportunities
+- Junior / Entry-Level Data Analyst roles (NZ-based)
+- Business Intelligence & Reporting roles
+- Analyst roles in real estate, infrastructure, or finance
+- Mentorship in advanced analytics & modelling
+
+---
+
+## 📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/manas-shirsat  
+Email: manasshirsat9@gmail.com
