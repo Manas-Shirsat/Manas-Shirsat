@@ -2,7 +2,7 @@
 
 🎯 Data Analyst | Project Manager based in Auckland, New Zealand  
 📊 Power BI | Python | SQL | Excel | Financial & Real Estate Analytics  
-🏗 Civil Engineer with a strong interest in data-driven decision making  
+🏗 Project Manager with a strong interest in data-driven decision making  
 
 ---
 
